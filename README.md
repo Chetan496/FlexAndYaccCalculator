@@ -37,3 +37,7 @@ The `y.tab.c` will have the source code for the parser as per the specifications
 ### Good references to learn more about Flex and Yacc:
 1. https://www.epaperpress.com/lexandyacc/prl.html
 
+### TODO (Items to implement):
+1. Add support for division and subtraction.
+2. Add support for floating point numbers.
+3. Add support for simple IF ELSE
